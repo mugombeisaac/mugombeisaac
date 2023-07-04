@@ -5,4 +5,4 @@
 I have learned different kinds of operating systems ie windows, linux and the BSD.
 I have also got some hint on version control. The use of Github
 DAY 2
-I have learnt virtualisation and containerisation
+I have learnt virtualisation and containerisation. Virtual machines and containers
