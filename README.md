@@ -18,6 +18,11 @@
 | MON | TUE | WED | THUR | FRI |
 | --- | --- | --- | --- | --- |
 |- Routing ie static routes, default routes and dynamic routes.- looked at Interior gateway protocols ie OSPF and IS-IS.- Installed GNS3 on my machine | Basic router and switch commands in packet tracer. Covered external Gateway protocols ie BGP(iBGP and eBGP) and implemented network design in GNS3 using OSPF | a visit to RENU Data Centre(DC),Kampala-2 POP at MU-JHU | Disassembled and assembled a dell E6440 laptop observing different hardware components in it. Wireless concepts | Presenting OSPF assignment done using GSN3.- RENU end of quarter 11 staff meeting and had a career talk from the UCC Executive Director Eng.Irene Kaggwa. |
+# Week 5 (24th - 28th)
+| MON | TUE | WED | THUR | FRI |
+| --- | ---- | ---- | ---- | ---- |
+| looked at linux shell and navigation of the linux file system | The different text editors in linux ie vim,Vi and nano | file permissions and manipulation of data with a filter,tools and redirection techniques| use of ansible to create a directory and automatically create a file where i was able to create 100 files in that directory | Interacted with the sed command and attented an awareness meeting with the Group Personal Accident.| 
+
 
 
 
