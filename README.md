@@ -22,7 +22,12 @@
 | MON | TUE | WED | THUR | FRI |
 | --- | ---- | ---- | ---- | ---- |
 | looked at linux shell and navigation of the linux file system | The different text editors in linux ie vim,Vi and nano | file permissions and manipulation of data with a filter,tools and redirection techniques| use of ansible to create a directory and automatically create a file where i was able to create 100 files in that directory | Interacted with the sed command and attented an awareness meeting with the Group Personal Accident.| 
-
+# Week 6
+| MON | TUE | WED | THUR | FRI|
+|--- | --- | ----| --- | ---|
+|I looked at the network monitoring tools ie Nagios, Cacti and LibreNMS | I looked at the email etiquette and ticketing. | I  looked at the various tools for static analysis ie NfSen and elastiflow.| Configured a point to point link | Research work whereby i researched more about Nagios |
+# Week 7
+I looked at systems bit of DNS whereby i looked at the DNS hierarchy and also went further to set it up thus looking at the zones file and the A and NS(name server) record. I also looked at the management commands ie man ps, systemctl status bind9, systemctl daemon-reload.:
 
 
 
